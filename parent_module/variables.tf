@@ -1,0 +1,2 @@
+variable"parentresource"{}
+variable "parentstorage" {}
